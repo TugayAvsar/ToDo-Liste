@@ -3,3 +3,4 @@ Ziel dieses Projekts ist die Entwicklung einer webbasierten ToDo-Listen-Anwendun
 
 Link zum GitHub-Repository: https://github.com/TugayAvsar/ToDo-Liste.git
 
+Ich arbeite alleine an diesem Projekt: Tugay Avsar / 585066
